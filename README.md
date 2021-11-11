@@ -17,4 +17,4 @@ Currently, the top and bottom are pretty much a friction fit, be aware of that w
 I personally tend to remove the microUSB connector from the Promicro and solder it directly to a unified daughterboard, that's also why the Promicro cutout may not fit with the USB connector still on the PCB. (I should really write up some documentation on that ^^)
 
 ## PCB version
-The adjusted Case files for the PCB version are currently not on this repo, they will be added later down the line.
+The adjusted Case files for the PCB version are currently on this repo.
