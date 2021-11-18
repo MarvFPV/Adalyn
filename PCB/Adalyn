@@ -1,0 +1,34 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>KiCad BOM Example 5</title>
+    </head>
+    <body>
+    <h1>/Users/tjcampie/Documents/Keyboards/Adalyn/PCB/Adalyn.sch</h1>
+    <p>Wednesday, November 17, 2021 at 07:58:33 PM</p>
+    <p>Eeschema (5.1.10-1-10_14)</p>
+    <p><b>Component Count:</b>73</p>
+    <table>
+    <tr><th style='width:640px'>Ref</th><th>Qnty</th><th>Value</th><th>Part</th><th>Footprint</th><th>Description</th><th>Vendor</th></tr>
+    <tr><td>C1, C2, C4, C101</td><td>4</td><td>.1uF</td><td>Device:C_Small</td><td>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</td><td>Unpolarized capacitor, small symbol</td><td></td></tr>
+    <tr><td>C5</td><td>1</td><td>10uF</td><td>Device:C_Small</td><td>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</td><td>Unpolarized capacitor, small symbol</td><td></td></tr>
+    <tr><td>C6</td><td>1</td><td>1uF</td><td>Device:C_Small</td><td>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</td><td>Unpolarized capacitor, small symbol</td><td></td></tr>
+    <tr><td>D101, D102, D103, D104, D105, D106, D107, D108, D109, D110, D111, D112, D113, D114, D115, D116, D117, D118</td><td>18</td><td>BAV70</td><td>Diode:BAV70</td><td>Package_TO_SOT_SMD:SOT-23</td><td>Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23</td><td></td></tr>
+    <tr><td>F101</td><td>1</td><td>700mA</td><td>Device:Fuse_Small</td><td>Fuse:Fuse_0603_1608Metric</td><td>Fuse, small symbol</td><td></td></tr>
+    <tr><td>L101</td><td>1</td><td>600R@100MHz</td><td>Device:L_Small</td><td>Inductor_SMD:L_0603_1608Metric</td><td>Inductor, small symbol</td><td></td></tr>
+    <tr><td>MX1, MX2, MX3, MX4, MX5, MX6, MX7, MX8, MX9, MX10, MX11, MX12, MX13, MX15, MX16, MX17, MX18, MX19, MX20, MX21, MX22, MX23, MX24, MX25, MX26, MX27, MX28, MX29, MX30, MX32, MX33, MX34, MX35, MX36, MX37, MX38</td><td>36</td><td>MX-NoLED</td><td>MX_Alps_Hybrid:MX-NoLED</td><td>MX_Only:MXOnly-1U-NoLED</td><td></td><td></td></tr>
+    <tr><td>R2, R3</td><td>2</td><td>22</td><td>Device:R_Small</td><td>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</td><td>Resistor, small symbol</td><td></td></tr>
+    <tr><td>R4, R5</td><td>2</td><td>10k</td><td>Device:R_Small</td><td>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</td><td>Resistor, small symbol</td><td></td></tr>
+    <tr><td>R101, R102</td><td>2</td><td>5.1k</td><td>Device:R_Small</td><td>Resistor_SMD:R_0603_1608Metric</td><td>Resistor, small symbol</td><td></td></tr>
+    <tr><td>SW1</td><td>1</td><td>SW_Push</td><td>Switch:SW_Push</td><td>Keebio-Parts:SW_SPST_TL3342</td><td>Push button switch, generic, two pins</td><td></td></tr>
+    <tr><td>U101</td><td>1</td><td>ATmega32U4-A</td><td>MCU_Microchip_ATmega:ATmega32U4-A</td><td>Package_QFP:TQFP-44_10x10mm_P0.8mm</td><td>16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44</td><td></td></tr>
+    <tr><td>U102</td><td>1</td><td>PRTR5V0U2X</td><td>keebio:PRTR5V0U2X</td><td>Package_TO_SOT_SMD:SOT-143</td><td></td><td></td></tr>
+    <tr><td>USB101</td><td>1</td><td>HRO-TYPE-C-31-M-12</td><td>keebio:HRO-TYPE-C-31-M-12</td><td>Type-C:HRO-TYPE-C-31-M-12-Assembly</td><td></td><td></td></tr>
+    <tr><td>Y1</td><td>1</td><td>16MHz</td><td>Device:Resonator_Small</td><td>Crystal:Resonator_SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm_HandSoldering</td><td>Three pin ceramic resonator, small symbol</td><td></td></tr><!--TABLEROW-->
+    </table>
+    </body>
+</html>
+    
