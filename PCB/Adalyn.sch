@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX1
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX1
 U 1 1 5F0B91BC
 P 1000 800
 F 0 "MX1" H 1033 1023 60  0000 C CNN
@@ -25,7 +25,7 @@ F 3 "" H 375 775 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX7
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX7
 U 1 1 5F0F7B30
 P 2700 800
 F 0 "MX7" H 2733 1023 60  0000 C CNN
@@ -36,7 +36,7 @@ F 3 "" H 2075 775 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX11
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX11
 U 1 1 5F0F7B3F
 P 3550 800
 F 0 "MX11" H 3583 1023 60  0000 C CNN
@@ -47,7 +47,7 @@ F 3 "" H 2925 775 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX16
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX16
 U 1 1 5F0FE19A
 P 4450 800
 F 0 "MX16" H 4483 1023 60  0000 C CNN
@@ -58,7 +58,7 @@ F 3 "" H 3825 775 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX20
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX20
 U 1 1 5F0FE1A9
 P 5300 800
 F 0 "MX20" H 5333 1023 60  0000 C CNN
@@ -69,7 +69,7 @@ F 3 "" H 4675 775 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX23
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX23
 U 1 1 5F0FE1B8
 P 6150 800
 F 0 "MX23" H 6183 1023 60  0000 C CNN
@@ -80,7 +80,7 @@ F 3 "" H 5525 775 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX27
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX27
 U 1 1 5F0FE1C7
 P 7000 800
 F 0 "MX27" H 7033 1023 60  0000 C CNN
@@ -91,7 +91,7 @@ F 3 "" H 6375 775 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX32
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX32
 U 1 1 5F1076AA
 P 7950 800
 F 0 "MX32" H 7983 1023 60  0000 C CNN
@@ -102,7 +102,7 @@ F 3 "" H 7325 775 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX36
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX36
 U 1 1 5F1076B9
 P 8800 800
 F 0 "MX36" H 8833 1023 60  0000 C CNN
@@ -113,7 +113,7 @@ F 3 "" H 8175 775 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX2
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX2
 U 1 1 5F1868E7
 P 1000 1600
 F 0 "MX2" H 1033 1823 60  0000 C CNN
@@ -124,7 +124,7 @@ F 3 "" H 375 1575 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX5
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX5
 U 1 1 5F1868F6
 P 1850 1600
 F 0 "MX5" H 1883 1823 60  0000 C CNN
@@ -135,7 +135,7 @@ F 3 "" H 1225 1575 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX8
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX8
 U 1 1 5F186905
 P 2700 1600
 F 0 "MX8" H 2733 1823 60  0000 C CNN
@@ -146,7 +146,7 @@ F 3 "" H 2075 1575 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX12
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX12
 U 1 1 5F186914
 P 3550 1600
 F 0 "MX12" H 3583 1823 60  0000 C CNN
@@ -157,7 +157,7 @@ F 3 "" H 2925 1575 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX21
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX21
 U 1 1 5F186932
 P 5300 1600
 F 0 "MX21" H 5333 1823 60  0000 C CNN
@@ -168,7 +168,7 @@ F 3 "" H 4675 1575 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX24
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX24
 U 1 1 5F186941
 P 6150 1600
 F 0 "MX24" H 6183 1823 60  0000 C CNN
@@ -179,7 +179,7 @@ F 3 "" H 5525 1575 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX28
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX28
 U 1 1 5F186950
 P 7000 1600
 F 0 "MX28" H 7033 1823 60  0000 C CNN
@@ -190,7 +190,7 @@ F 3 "" H 6375 1575 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX33
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX33
 U 1 1 5F18695F
 P 7950 1600
 F 0 "MX33" H 7983 1823 60  0000 C CNN
@@ -201,7 +201,7 @@ F 3 "" H 7325 1575 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX37
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX37
 U 1 1 5F18696E
 P 8800 1600
 F 0 "MX37" H 8833 1823 60  0000 C CNN
@@ -212,7 +212,7 @@ F 3 "" H 8175 1575 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX3
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX3
 U 1 1 5F1EDB69
 P 1000 2400
 F 0 "MX3" H 1033 2623 60  0000 C CNN
@@ -223,7 +223,7 @@ F 3 "" H 375 2375 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX6
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX6
 U 1 1 5F1EDB78
 P 1850 2400
 F 0 "MX6" H 1883 2623 60  0000 C CNN
@@ -234,7 +234,7 @@ F 3 "" H 1225 2375 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX9
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX9
 U 1 1 5F1EDB87
 P 2700 2400
 F 0 "MX9" H 2733 2623 60  0000 C CNN
@@ -245,7 +245,7 @@ F 3 "" H 2075 2375 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX13
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX13
 U 1 1 5F1EDB96
 P 3550 2400
 F 0 "MX13" H 3583 2623 60  0000 C CNN
@@ -256,7 +256,7 @@ F 3 "" H 2925 2375 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX18
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX18
 U 1 1 5F1EDBA5
 P 4450 2400
 F 0 "MX18" H 4483 2623 60  0000 C CNN
@@ -267,7 +267,7 @@ F 3 "" H 3825 2375 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX22
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX22
 U 1 1 5F1EDBB4
 P 5300 2400
 F 0 "MX22" H 5333 2623 60  0000 C CNN
@@ -278,7 +278,7 @@ F 3 "" H 4675 2375 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX25
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX25
 U 1 1 5F1EDBC3
 P 6150 2400
 F 0 "MX25" H 6183 2623 60  0000 C CNN
@@ -289,7 +289,7 @@ F 3 "" H 5525 2375 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX29
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX29
 U 1 1 5F1EDBD2
 P 7000 2400
 F 0 "MX29" H 7033 2623 60  0000 C CNN
@@ -300,7 +300,7 @@ F 3 "" H 6375 2375 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX34
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX34
 U 1 1 5F1EDBE1
 P 7950 2400
 F 0 "MX34" H 7983 2623 60  0000 C CNN
@@ -311,7 +311,7 @@ F 3 "" H 7325 2375 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX38
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX38
 U 1 1 5F1EDBF0
 P 8800 2400
 F 0 "MX38" H 8833 2623 60  0000 C CNN
@@ -322,7 +322,7 @@ F 3 "" H 8175 2375 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX19
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX19
 U 1 1 5F2028C8
 P 4300 3150
 F 0 "MX19" H 4333 3373 60  0000 C CNN
@@ -333,7 +333,7 @@ F 3 "" H 3675 3125 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX15
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX15
 U 1 1 5F2028B9
 P 3450 3150
 F 0 "MX15" H 3483 3373 60  0000 C CNN
@@ -344,7 +344,7 @@ F 3 "" H 2825 3125 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX10
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX10
 U 1 1 5F20289B
 P 1100 3150
 F 0 "MX10" H 1133 3373 60  0000 C CNN
@@ -375,179 +375,155 @@ Col8
 Text GLabel 9300 750  1    50   Input ~ 0
 Col9
 Wire Wire Line
-	4800 4450 4450 4450
+	5000 4950 4650 4950
 Wire Wire Line
-	4450 4650 4800 4650
+	4650 5150 5000 5150
 Wire Wire Line
-	5300 3750 5300 3950
-$Comp
-L power:GND #PWR013
-U 1 1 5F516324
-P 5350 7650
-F 0 "#PWR013" H 5350 7400 50  0001 C CNN
-F 1 "GND" H 5355 7477 50  0000 C CNN
-F 2 "" H 5350 7650 50  0001 C CNN
-F 3 "" H 5350 7650 50  0001 C CNN
-	1    5350 7650
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	5350 7550 5350 7650
+	5500 4250 5500 4450
 $Comp
 L power:GND #PWR09
 U 1 1 5F53FBAB
-P 4150 4650
-F 0 "#PWR09" H 4150 4400 50  0001 C CNN
-F 1 "GND" H 4155 4477 50  0000 C CNN
-F 2 "" H 4150 4650 50  0001 C CNN
-F 3 "" H 4150 4650 50  0001 C CNN
-	1    4150 4650
+P 4350 5150
+F 0 "#PWR09" H 4350 4900 50  0001 C CNN
+F 1 "GND" H 4355 4977 50  0000 C CNN
+F 2 "" H 4350 5150 50  0001 C CNN
+F 3 "" H 4350 5150 50  0001 C CNN
+	1    4350 5150
 	1    0    0    -1  
 $EndComp
-Text GLabel 4250 5250 0    50   Input ~ 0
+Text GLabel 4450 5350 0    50   Input ~ 0
 D+
-Text GLabel 4250 5350 0    50   Input ~ 0
+Text GLabel 4450 5450 0    50   Input ~ 0
 D-
 $Comp
 L Switch:SW_Push SW1
 U 1 1 5F5437F8
-P 4550 4250
-F 0 "SW1" H 4550 4535 50  0000 C CNN
-F 1 "SW_Push" H 4550 4444 50  0000 C CNN
-F 2 "Keebio-Parts:SW_SPST_TL3342" H 4550 4450 50  0001 C CNN
-F 3 "~" H 4550 4450 50  0001 C CNN
-	1    4550 4250
+P 4750 4750
+F 0 "SW1" H 4750 5035 50  0000 C CNN
+F 1 "SW_Push" H 4750 4944 50  0000 C CNN
+F 2 "Keebio-Parts:SW_SPST_TL3342" H 4750 4950 50  0001 C CNN
+F 3 "~" H 4750 4950 50  0001 C CNN
+	1    4750 4750
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR010
 U 1 1 5F54509C
-P 4350 4250
-F 0 "#PWR010" H 4350 4000 50  0001 C CNN
-F 1 "GND" H 4200 4200 50  0000 C CNN
-F 2 "" H 4350 4250 50  0001 C CNN
-F 3 "" H 4350 4250 50  0001 C CNN
-	1    4350 4250
+P 4550 4750
+F 0 "#PWR010" H 4550 4500 50  0001 C CNN
+F 1 "GND" H 4400 4700 50  0000 C CNN
+F 2 "" H 4550 4750 50  0001 C CNN
+F 3 "" H 4550 4750 50  0001 C CNN
+	1    4550 4750
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4700 3750 5300 3750
+	4900 4250 5500 4250
 $Comp
 L power:+5V #PWR012
 U 1 1 5F58F587
-P 5450 3950
-F 0 "#PWR012" H 5450 3800 50  0001 C CNN
-F 1 "+5V" H 5465 4123 50  0000 C CNN
-F 2 "" H 5450 3950 50  0001 C CNN
-F 3 "" H 5450 3950 50  0001 C CNN
-	1    5450 3950
+P 5650 4450
+F 0 "#PWR012" H 5650 4300 50  0001 C CNN
+F 1 "+5V" H 5665 4623 50  0000 C CNN
+F 2 "" H 5650 4450 50  0001 C CNN
+F 3 "" H 5650 4450 50  0001 C CNN
+	1    5650 4450
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:Resonator_Small Y1
 U 1 1 5F5A61F7
-P 4350 4550
-F 0 "Y1" V 4045 4500 50  0000 C CNN
-F 1 "16MHz" V 4136 4500 50  0000 C CNN
-F 2 "Crystal:Resonator_SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm_HandSoldering" H 4325 4550 50  0001 C CNN
-F 3 "~" H 4325 4550 50  0001 C CNN
-	1    4350 4550
+P 4550 5050
+F 0 "Y1" V 4245 5000 50  0000 C CNN
+F 1 "16MHz" V 4336 5000 50  0000 C CNN
+F 2 "Crystal:Resonator_SMD_muRata_CSTxExxV-3Pin_3.0x1.1mm" H 4525 5050 50  0001 C CNN
+F 3 "~" H 4525 5050 50  0001 C CNN
+	1    4550 5050
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	4150 4650 4150 4550
+	4350 5150 4350 5050
 $Comp
 L Device:R_Small R4
 U 1 1 5F5D69C4
-P 4700 3950
-F 0 "R4" H 4759 3996 50  0000 L CNN
-F 1 "10k" H 4759 3905 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" H 4700 3950 50  0001 C CNN
-F 3 "~" H 4700 3950 50  0001 C CNN
-	1    4700 3950
+P 4900 4450
+F 0 "R4" H 4959 4496 50  0000 L CNN
+F 1 "10k" H 4959 4405 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" H 4900 4450 50  0001 C CNN
+F 3 "~" H 4900 4450 50  0001 C CNN
+	1    4900 4450
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4700 3850 4700 3750
+	4900 4350 4900 4250
 $Comp
 L Device:R_Small R5
 U 1 1 5F5F289D
-P 6200 6450
-F 0 "R5" H 6259 6496 50  0000 L CNN
-F 1 "10k" H 6259 6405 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" H 6200 6450 50  0001 C CNN
-F 3 "~" H 6200 6450 50  0001 C CNN
-	1    6200 6450
+P 6600 7050
+F 0 "R5" H 6659 7096 50  0000 L CNN
+F 1 "10k" H 6659 7005 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" H 6600 7050 50  0001 C CNN
+F 3 "~" H 6600 7050 50  0001 C CNN
+	1    6600 7050
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6000 6350 6200 6350
+	6400 6950 6600 6950
 $Comp
 L power:GND #PWR014
 U 1 1 5F61EB22
-P 6200 6550
-F 0 "#PWR014" H 6200 6300 50  0001 C CNN
-F 1 "GND" H 6205 6377 50  0000 C CNN
-F 2 "" H 6200 6550 50  0001 C CNN
-F 3 "" H 6200 6550 50  0001 C CNN
-	1    6200 6550
+P 6600 7150
+F 0 "#PWR014" H 6600 6900 50  0001 C CNN
+F 1 "GND" H 6605 6977 50  0000 C CNN
+F 2 "" H 6600 7150 50  0001 C CNN
+F 3 "" H 6600 7150 50  0001 C CNN
+	1    6600 7150
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R_Small R2
 U 1 1 5F620E03
-P 4400 5250
-F 0 "R2" V 4204 5250 50  0000 C CNN
-F 1 "22" V 4295 5250 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" H 4400 5250 50  0001 C CNN
-F 3 "~" H 4400 5250 50  0001 C CNN
-	1    4400 5250
+P 4600 5350
+F 0 "R2" V 4404 5350 50  0000 C CNN
+F 1 "22" V 4495 5350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" H 4600 5350 50  0001 C CNN
+F 3 "~" H 4600 5350 50  0001 C CNN
+	1    4600 5350
 	0    1    1    0   
 $EndComp
 $Comp
 L Device:R_Small R3
 U 1 1 5F6224E2
-P 4650 5350
-F 0 "R3" V 4454 5350 50  0000 C CNN
-F 1 "22" V 4545 5350 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" H 4650 5350 50  0001 C CNN
-F 3 "~" H 4650 5350 50  0001 C CNN
-	1    4650 5350
+P 4850 5450
+F 0 "R3" V 4654 5450 50  0000 C CNN
+F 1 "22" V 4745 5450 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" H 4850 5450 50  0001 C CNN
+F 3 "~" H 4850 5450 50  0001 C CNN
+	1    4850 5450
 	0    1    1    0   
 $EndComp
 $Comp
 L Device:C_Small C6
 U 1 1 5F691F21
-P 4650 5650
-F 0 "C6" H 4742 5696 50  0000 L CNN
-F 1 "1uF" H 4742 5605 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" H 4650 5650 50  0001 C CNN
-F 3 "~" H 4650 5650 50  0001 C CNN
-	1    4650 5650
+P 4850 5750
+F 0 "C6" H 4942 5796 50  0000 L CNN
+F 1 "1uF" H 4942 5705 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" H 4850 5750 50  0001 C CNN
+F 3 "~" H 4850 5750 50  0001 C CNN
+	1    4850 5750
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4650 5550 4800 5550
+	4850 5650 5000 5650
 $Comp
 L power:GND #PWR011
 U 1 1 5F6C2157
-P 4650 5750
-F 0 "#PWR011" H 4650 5500 50  0001 C CNN
-F 1 "GND" H 4655 5577 50  0000 C CNN
-F 2 "" H 4650 5750 50  0001 C CNN
-F 3 "" H 4650 5750 50  0001 C CNN
-	1    4650 5750
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C_Small C1
-U 1 1 5F6C5A88
-P 1350 5150
-F 0 "C1" H 1442 5196 50  0000 L CNN
-F 1 ".1uF" H 1442 5105 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" H 1350 5150 50  0001 C CNN
-F 3 "~" H 1350 5150 50  0001 C CNN
-	1    1350 5150
+P 4850 5850
+F 0 "#PWR011" H 4850 5600 50  0001 C CNN
+F 1 "GND" H 4855 5677 50  0000 C CNN
+F 2 "" H 4850 5850 50  0001 C CNN
+F 3 "" H 4850 5850 50  0001 C CNN
+	1    4850 5850
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -583,8 +559,6 @@ F 3 "~" H 2250 5150 50  0001 C CNN
 	1    2250 5150
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	1350 5050 1650 5050
 Connection ~ 1650 5050
 Wire Wire Line
 	1650 5050 1800 5050
@@ -594,8 +568,6 @@ Wire Wire Line
 Wire Wire Line
 	2250 5250 1950 5250
 Connection ~ 1650 5250
-Wire Wire Line
-	1650 5250 1350 5250
 Connection ~ 1950 5250
 Wire Wire Line
 	1950 5250 1800 5250
@@ -632,42 +604,42 @@ F 3 "" H 1800 4950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4250 5350 4550 5350
+	4450 5450 4750 5450
 Wire Wire Line
-	4250 5250 4300 5250
+	4450 5350 4500 5350
 Wire Wire Line
-	4500 5250 4800 5250
-Text GLabel 6000 5250 2    50   Input ~ 0
+	4700 5350 5000 5350
+Text GLabel 9900 4950 2    50   Input ~ 0
 ROW0
-Text GLabel 6000 6050 2    50   Input ~ 0
+Text GLabel 9900 5750 2    50   Input ~ 0
 ROW1
-Text GLabel 6000 4950 2    50   Input ~ 0
+Text GLabel 9900 4650 2    50   Input ~ 0
 ROW2
-Text GLabel 6000 4550 2    50   Input ~ 0
+Text GLabel 9900 4250 2    50   Input ~ 0
 ROW3
-Text GLabel 6000 7050 2    50   Input ~ 0
+Text GLabel 9900 6750 2    50   Input ~ 0
 Col6
-Text GLabel 6000 5150 2    50   Input ~ 0
+Text GLabel 9900 4850 2    50   Input ~ 0
 Col4
-Text GLabel 6000 7150 2    50   Input ~ 0
+Text GLabel 9900 6850 2    50   Input ~ 0
 Col5
-Text GLabel 6000 6150 2    50   Input ~ 0
+Text GLabel 9900 5850 2    50   Input ~ 0
 Col0
-Text GLabel 6000 4650 2    50   Input ~ 0
+Text GLabel 9900 4350 2    50   Input ~ 0
 Col1
-Text GLabel 6000 4750 2    50   Input ~ 0
+Text GLabel 9900 4450 2    50   Input ~ 0
 Col2
-Text GLabel 6000 4850 2    50   Input ~ 0
+Text GLabel 9900 4550 2    50   Input ~ 0
 Col3
-Text GLabel 6000 6950 2    50   Input ~ 0
+Text GLabel 9900 6650 2    50   Input ~ 0
 Col7
-Text GLabel 6000 6850 2    50   Input ~ 0
+Text GLabel 9900 6550 2    50   Input ~ 0
 Col8
-Text GLabel 6000 6750 2    50   Input ~ 0
+Text GLabel 9900 6450 2    50   Input ~ 0
 Col9
 NoConn ~ 350  4250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX4
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX4
 U 1 1 5F0F2012
 P 1850 800
 F 0 "MX4" H 1883 1023 60  0000 C CNN
@@ -764,7 +736,7 @@ Wire Wire Line
 Wire Wire Line
 	8850 3100 9300 3100
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX35
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX35
 U 1 1 5F202904
 P 8700 3150
 F 0 "MX35" H 8733 3373 60  0000 C CNN
@@ -775,7 +747,7 @@ F 3 "" H 8075 3125 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX30
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX30
 U 1 1 5F2028E6
 P 7000 3150
 F 0 "MX30" H 7033 3373 60  0000 C CNN
@@ -786,7 +758,7 @@ F 3 "" H 6375 3125 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX26
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX26
 U 1 1 5F2028D7
 P 6150 3150
 F 0 "MX26" H 6183 3373 60  0000 C CNN
@@ -844,19 +816,13 @@ ROW2
 Text GLabel 950  3500 0    50   Input ~ 0
 ROW3
 Wire Wire Line
-	5300 7550 5350 7550
-Connection ~ 5350 7550
+	5000 4750 4950 4750
 Wire Wire Line
-	5350 7550 5400 7550
+	5000 4750 5000 4550
 Wire Wire Line
-	4800 4250 4750 4250
+	5000 4550 4900 4550
 Wire Wire Line
-	4800 4250 4800 4050
-Wire Wire Line
-	4800 4050 4700 4050
-Wire Wire Line
-	4800 5350 4750 5350
-NoConn ~ 6000 6450
+	5000 5450 4950 5450
 NoConn ~ -950 3700
 $Comp
 L Device:C_Small C101
@@ -870,32 +836,13 @@ F 3 "~" H 1150 5150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1150 5050 1350 5050
-Connection ~ 1350 5050
-Wire Wire Line
-	1350 5250 1150 5250
-Connection ~ 1350 5250
-Wire Wire Line
-	4700 5050 4800 5050
-$Comp
-L power:+5V #PWR0102
-U 1 1 5F40B739
-P 4700 5050
-F 0 "#PWR0102" H 4700 4900 50  0001 C CNN
-F 1 "+5V" H 4715 5223 50  0000 C CNN
-F 2 "" H 4700 5050 50  0001 C CNN
-F 3 "" H 4700 5050 50  0001 C CNN
-	1    4700 5050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
 	1150 1550 1500 1550
 Wire Wire Line
 	1700 1750 1800 1750
 Wire Wire Line
 	2850 1550 3200 1550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX17
+L Adalyn-rescue:MX-NoLED-MX_Alps_Hybrid MX17
 U 1 1 5F186923
 P 4450 1600
 F 0 "MX17" H 4483 1823 60  0000 C CNN
@@ -908,15 +855,8 @@ $EndComp
 Wire Wire Line
 	4600 1550 4950 1550
 Wire Wire Line
-	5300 3950 5400 3950
-Connection ~ 4800 4250
-Connection ~ 5300 3950
-Wire Wire Line
-	5500 3950 5450 3950
-Connection ~ 5400 3950
-Connection ~ 5450 3950
-Wire Wire Line
-	5450 3950 5400 3950
+	5700 4450 5650 4450
+Connection ~ 5650 4450
 Connection ~ 8350 1550
 Wire Wire Line
 	8350 1550 8350 750 
@@ -1252,20 +1192,8 @@ Wire Wire Line
 Wire Wire Line
 	4050 2850 4050 2350
 Connection ~ 4050 2350
-NoConn ~ 6000 5950
 $Comp
-L MCU_Microchip_ATmega:ATmega32U4-A U101
-U 1 1 6106D3C2
-P 5400 5750
-F 0 "U101" H 5400 3861 50  0000 C CNN
-F 1 "ATmega32U4-A" H 5400 3770 50  0000 C CNN
-F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 5400 5750 50  0001 C CIN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 5400 5750 50  0001 C CNN
-	1    5400 5750
-	1    0    0    -1  
-$EndComp
-$Comp
-L keebio:PRTR5V0U2X U102
+L Adalyn-rescue:PRTR5V0U2X-keebio U102
 U 1 1 61012558
 P 3200 6950
 F 0 "U102" H 3200 7225 50  0000 C CNN
@@ -1483,7 +1411,7 @@ Wire Wire Line
 Wire Wire Line
 	1300 7050 1300 7150
 $Comp
-L keebio:HRO-TYPE-C-31-M-12 USB101
+L Adalyn-rescue:HRO-TYPE-C-31-M-12-keebio USB101
 U 1 1 6100D0CA
 P 1200 6500
 F 0 "USB101" H 1033 7297 60  0000 C CNN
@@ -1520,4 +1448,44 @@ Wire Wire Line
 Connection ~ 1500 6650
 Wire Wire Line
 	1500 6650 1300 6650
+Wire Wire Line
+	5500 4450 5600 4450
+$Comp
+L MCU_Microchip_ATmega:ATmega32U2-AU U1
+U 1 1 619DB324
+P 5700 5850
+F 0 "U1" H 5700 4361 50  0000 C CNN
+F 1 "ATmega32U2-AU" H 5700 4270 50  0000 C CNN
+F 2 "Package_QFP:TQFP-32_7x7mm_P0.8mm" H 5700 5850 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/doc7799.pdf" H 5700 5850 50  0001 C CNN
+	1    5700 5850
+	1    0    0    -1  
+$EndComp
+Connection ~ 5000 4750
+Connection ~ 5600 4450
+Wire Wire Line
+	5600 4450 5650 4450
+Wire Wire Line
+	5700 4450 5800 4450
+Connection ~ 5700 4450
+Wire Wire Line
+	5600 7250 5650 7250
+$Comp
+L power:GND #PWR0102
+U 1 1 61A3A1DF
+P 5650 7250
+F 0 "#PWR0102" H 5650 7000 50  0001 C CNN
+F 1 "GND" H 5655 7077 50  0000 C CNN
+F 2 "" H 5650 7250 50  0001 C CNN
+F 3 "" H 5650 7250 50  0001 C CNN
+	1    5650 7250
+	1    0    0    -1  
+$EndComp
+Connection ~ 5650 7250
+Wire Wire Line
+	5650 7250 5700 7250
+Wire Wire Line
+	1150 5050 1650 5050
+Wire Wire Line
+	1150 5250 1650 5250
 $EndSCHEMATC
