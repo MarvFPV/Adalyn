@@ -527,17 +527,6 @@ F 3 "" H 4850 5850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C_Small C1
-U 1 1 5F6C5A88
-P 1350 5150
-F 0 "C1" H 1442 5196 50  0000 L CNN
-F 1 ".1uF" H 1442 5105 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" H 1350 5150 50  0001 C CNN
-F 3 "~" H 1350 5150 50  0001 C CNN
-	1    1350 5150
-	1    0    0    -1  
-$EndComp
-$Comp
 L Device:C_Small C2
 U 1 1 5F6C6E92
 P 1650 5150
@@ -570,8 +559,6 @@ F 3 "~" H 2250 5150 50  0001 C CNN
 	1    2250 5150
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	1350 5050 1650 5050
 Connection ~ 1650 5050
 Wire Wire Line
 	1650 5050 1800 5050
@@ -581,8 +568,6 @@ Wire Wire Line
 Wire Wire Line
 	2250 5250 1950 5250
 Connection ~ 1650 5250
-Wire Wire Line
-	1650 5250 1350 5250
 Connection ~ 1950 5250
 Wire Wire Line
 	1950 5250 1800 5250
@@ -850,12 +835,6 @@ F 3 "~" H 1150 5150 50  0001 C CNN
 	1    1150 5150
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	1150 5050 1350 5050
-Connection ~ 1350 5050
-Wire Wire Line
-	1350 5250 1150 5250
-Connection ~ 1350 5250
 Wire Wire Line
 	1150 1550 1500 1550
 Wire Wire Line
@@ -1505,4 +1484,8 @@ $EndComp
 Connection ~ 5650 7250
 Wire Wire Line
 	5650 7250 5700 7250
+Wire Wire Line
+	1150 5050 1650 5050
+Wire Wire Line
+	1150 5250 1650 5250
 $EndSCHEMATC
