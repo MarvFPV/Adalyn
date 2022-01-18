@@ -1,4 +1,4 @@
-19428857512797886
+19432142440009540
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84883,6 +84883,20 @@ Logo
 0
 silkscreen
 angrysmirk
+
+
+0
+0
+0
+silkscreen
+smir-pattern-updated
+
+
+0
+0
+0
+silkscreen
+smir-pattern-updated-invert
 
 
 0
