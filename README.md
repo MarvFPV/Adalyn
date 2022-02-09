@@ -5,6 +5,8 @@ Handwires of the keyboard are confirmed working, although we also have someone w
 Currently, the top and bottom are pretty much a friction fit, be aware of that when printing / ordering this case from a fab.
 
 ## Required components for handwires
+(For building a handwired Adalyn please use the 3D files from the handwire branch)
+
 * 36 MX style switches
 * 2 2u MX platemount stabs
 * 36 Diodes
